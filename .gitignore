@@ -471,3 +471,6 @@ ASALocalRun/
 .localhistory/
 
 # End of https://www.gitignore.io/api/vim,macos,linux,windows,sublimetext,visualstudio,visualstudiocode
+
+# Remove git dependencies dir
+src/
